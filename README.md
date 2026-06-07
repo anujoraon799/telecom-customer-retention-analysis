@@ -1,10 +1,10 @@
-# Customer Churn Analysis in a Telecommunications Company
+# Customer Retention & Churn Analysis in a Telecommunications Company
 
 ## Project Overview
 
 Customer churn is one of the most important business challenges faced by subscription-based companies. Acquiring new customers is often more expensive than retaining existing ones, making customer retention a critical business objective.
 
-This project analyzes customer churn behavior using a telecommunications customer dataset. The objective is to identify the factors associated with customer attrition, understand high-risk customer segments, and provide actionable business recommendations to improve customer retention.
+This project analyzes customer retention and churn behavior using a telecommunications customer dataset. The objective is to identify the factors associated with customer attrition, understand high-risk customer segments, and provide actionable business recommendations to improve customer retention.
 
 ---
 
